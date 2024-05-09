@@ -2,7 +2,8 @@
 
 # Hi there! 👋 I'm Debmalya Kuila 
 
-Just your friendly neighborhood Full Stack MERN Developer here, crafting awesome web apps with MongoDB, Express.js, React.js, and Node.js!
+I'm a dedicated Full Stack MERN Developer, willing to craft robust web applications using MongoDB, Express.js, React.js, and Node.js.
+
 
 
 ## 🚀 Skills and Expertise
