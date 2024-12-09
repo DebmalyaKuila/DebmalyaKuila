@@ -7,7 +7,8 @@ I'm a dedicated Full Stack MERN Developer, willing to craft robust web applicati
 
 
 ## 🚀 Skills and Expertise
-- **Frontend**: HTML5, CSS3, JavaScript, React.js ,Ant Design 
+- **Programming languages**: C++ , Javascript 
+- **Frontend**: HTML5, CSS3 , React.js ,Ant Design 
 - **Backend**: Node.js, Express.js, Redis , MongoDB, Mongoose, MySQL, sequelize 
 - **Tools & Technologies**: Git, GitHub, VS Code, Postman
 
