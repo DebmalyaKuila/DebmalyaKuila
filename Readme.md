@@ -13,7 +13,7 @@ I'm a dedicated Full Stack MERN Developer, willing to craft robust web applicati
 
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set. Currently, I'm focused on learning:
-- Docker
-- TypeScript
+- C++ socket programming
+- Multi-threading 
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
