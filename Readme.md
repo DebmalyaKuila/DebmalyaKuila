@@ -2,7 +2,12 @@
 
 # Hi there! 👋 I'm Debmalya Kuila 
 
-I'm a dedicated Full Stack MERN Developer, willing to craft robust web applications using MongoDB, Express.js, React.js, and Node.js.
+I'm a passionate developer with a strong interest in low-level system programming and full-stack web development.
+- 🧠 C++ enthusiast  — love building systems close to the metal , currently exploring socket programming
+- 🌐 Working with the MERN stack for 3 years — comfortable building full-stack web applications
+- ☕ Currently learning Java & Spring Boot to deepen my backend knowledge
+- 🚀 I enjoy working on real-time systems, performance optimization and scalable APIs
+- 📘 Sharing my journey and projects here on GitHub
 
 
 
@@ -15,6 +20,6 @@ I'm a dedicated Full Stack MERN Developer, willing to craft robust web applicati
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set. Currently, I'm focused on learning:
 - C++ socket programming
-- Multi-threading 
+- Java
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+Feel free to reach out if you have any questions, collaboration opportunities or just want to connect!
